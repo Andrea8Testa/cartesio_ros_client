@@ -1,0 +1,5 @@
+<launch>
+    
+<node pkg="cartesio_ros_client" type="cartesio_ik_node" name="cartesio_ik_node" output="screen" />
+
+</launch>
